@@ -1,2 +1,1 @@
-# EngenhariaSoftware
-EngenhariaSoftware faculdade
+# Engenharia de Software
